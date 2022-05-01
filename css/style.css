@@ -1,0 +1,374 @@
+/*------------------------Start-Row-1----------------------*/
+
+#row1{
+  height: 45px;
+    width: 100%;
+    background: #0C2D4E;
+    color: white;
+}
+.a101{
+    padding-top: 13px;
+    padding-left: 45px;
+}
+.a101 a{
+    color: white;
+}
+
+.a102{}
+.a102 h4{
+    padding-top: 3px;
+}
+.a102 ul{
+    margin-top: -30px;
+    margin-left: 97px;
+}
+.a102 ul li{
+    display: initial;
+    padding: 8px;
+}
+.a102 ul li a{}
+.a102 ul li a i{
+    color: white;
+}
+
+.a103{}
+.a103 h4{
+    padding-top: 3px;
+    margin-left: 90px;
+}
+.a103 ul{
+    margin-top: -30px;
+    margin-left: 162px;
+}
+.a103 ul li{
+    display: initial;
+    padding: 8px;
+}
+.a103 ul li a{}
+.a103 ul li a i{
+    color: white;
+}
+
+
+/*------------------------Start-Row-2----------------------*/
+
+#row2{
+    background: #dee2e6;
+    height: 150px;
+}
+.a201{}
+.a201 a{}
+.a201 a img{
+        height: 100px;
+    margin-top: 24px;
+    margin-left: 33px;
+}
+
+
+
+.a202{}
+.btnpart{
+    margin-left: 660px;
+    margin-top: 5px;
+}
+.btnpart button{
+    border: none;
+    border-radius: 25px;
+    background: lightgreen;
+}
+.btnpart button a{}
+.btnpart button a h1{}
+.btnpart button a p{}
+.btnpart button a h2{
+    margin-top: -5px;
+}
+.btnpart button a:hover{
+    text-decoration: none;
+}
+
+
+
+/*------------------------Start-Row-3----------------------*/
+
+
+#row3{
+  padding-top: 160px; 
+    height: 477px;
+}
+
+.container{
+    
+}
+
+
+.slider-section {
+    width: 1348px;
+    margin-top: -149px;
+    background: white;
+    margin-left: -104px;
+}
+.item{
+        margin-bottom: 70px;
+}
+.item img{
+      height: auto;
+    margin: 0 auto;
+    padding-top: 14px;
+}
+
+
+.carousel-indicators li{
+    background: #333333;
+    border: 2px solid #333333;
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    margin: 2px;
+}
+.carousel-indicators .active{
+    border: 2px solid #333333;
+    background: #fff;
+     width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    margin: 2px;
+}
+
+
+
+
+/*------------------------Start-Row-4----------------------*/
+
+
+#row4{
+    background: #ED7D24;
+    height: 180px;
+    width: 100%;
+}
+.a401{}
+.a401 h1{
+    padding-top: 20px;
+    padding-bottom: 15px;
+    font-family: revert;
+}
+.a401 h3{
+    font-size: 23px;
+    font-family: revert;
+}
+
+
+.a402{}
+.a402 button{
+    background: #0C2D4E;
+    padding: 25px 45px 25px 45px;
+    border-radius: 35px;
+    margin-top: 56px;
+    margin-left: 290px;
+    color: white;
+    font-family: unset;
+}
+.a402 button:hover{
+    background: #163758;
+}
+
+.{}
+
+
+/*------------------------Start-Row-5----------------------*/
+
+#row5{
+     background: #0C2D4E;
+    height: 350px;
+    width: 100%;
+}
+.a501{}
+.a501 p{
+    color: white;
+    padding-top: 44px;
+    padding-left: 34px;
+    font-size: 17px;
+    text-align: justify;
+}
+.a501 a{}
+.a501 a img{
+     height: 100px;
+    margin-top: 35px;
+    margin-left: 35px;
+}
+
+.a502{}
+.a502 h4{
+    color: white;
+    padding-top: 30px;
+    margin-left: 27px;
+    padding-bottom: 0px;
+    font-size: 21px;
+}
+.a502 ul{
+    margin-left: -12px;
+}
+.a502 ul li{
+    list-style-type: none;
+    padding-top: 24px;
+}
+.a502 ul li a{
+    color: white;
+}
+.a502 ul li a:hover{
+    color: orangered;
+}
+
+.a503{
+        width: 265px;
+    margin-left: -25px;
+}
+.a503 h4{
+     color: white;
+    padding-top: 30px;
+   margin-left: 39px;
+    padding-bottom: 0px;
+    font-size: 21px;
+}
+.a503 ul{}
+.a503 ul li{
+    list-style-type: none;
+    padding-top: 24px;
+}
+.a503 ul li a{
+    color: white;
+    margin-left:0px;
+}
+.a503 ul li a:hover{
+    color: orangered;
+}
+
+.a504{}
+.a504 h4{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    font-size: 21px;
+}
+.a504 ul{}
+.a504 ul li{
+    list-style-type: none;
+    padding-top: 24px;
+}
+.a504 ul li a{
+    color: white;
+        margin-left: -36px;
+}
+.a504 ul li a:hover{
+    color: orangered;
+}
+
+
+.a505{
+    margin-left: 644px;
+    margin-top: -217px;
+}
+.a505 h4{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    font-size: 21px;
+}
+.a505 ul{}
+.a505 ul li{
+    list-style-type: none;
+    padding-top: 24px;
+}
+.a505 ul li a{
+    color: white;
+        margin-left: -36px;
+}
+.a505 ul li a:hover{
+    color: orangered;
+}
+
+
+/*------------------------Start-Row-6----------------------*/
+
+#row6{
+    height: 100px;
+    width: 100%;
+    background: #0C2D4E;
+    margin-top: 3px;
+}
+.a601{}
+.a601 h5{}
+.a601 h5 a{}
+.a601 h5 a:hover{}
+
+.a602{
+    margin-top: 38px;
+    
+}
+.a602 h5{
+    margin-left: 168px;
+}
+.a602 h5 a{
+    color: white;
+}
+.a602 h5 a:hover{
+    text-decoration: none;
+}
+
+.a603{}
+.a603 h5{
+    color: white;
+    margin-top: 47px;
+    margin-left: 200px;
+}
+
+.b601{
+    margin-top: 38px;
+    margin-left: -44px;
+}
+.b601 h5 a{
+    color: white;
+}
+.b601 h5 a:hover{
+    color: orangered;
+}
+.b602{
+    margin-top: 38px;
+}
+.b602 h5 a{
+    color: white;
+}
+.b602 h5 a:hover{
+    color: orangered;
+}
+.b603{
+    margin-top: 38px;
+}
+.b603 h5 a{
+    color: white;
+}
+.b603 h5 a:hover{
+    color: orangered;
+}
+
+
+
+
+.s1{
+    color: white;
+}
+.s2{
+     color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
